@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316470941899",
+    "firebase_url": "https://tommysapp-f47f3.firebaseio.com",
+    "project_id": "tommysapp-f47f3",
+    "storage_bucket": "tommysapp-f47f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316470941899:android:c5c809c1c964d4d53e234e",
+        "android_client_info": {
+          "package_name": "com.example.tommysapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316470941899-q6vspsi5rrpmjmb7ol022ofptuu3ujnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tommysapp",
+            "certificate_hash": "2e36d45538f7e95f5b0ede3e11877e184cb136d9"
+          }
+        },
+        {
+          "client_id": "316470941899-5g7lqsin196nsthkl7sf1cqsjec5d14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBics3WhPfJKxv_m-dwBp27IFvP9APZlsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316470941899-5g7lqsin196nsthkl7sf1cqsjec5d14c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
